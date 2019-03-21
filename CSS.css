@@ -1,0 +1,70 @@
+body{
+	background-color:rgb(255, 250, 250);
+}
+.cherdak{
+	height:50px;
+	border-radius:10px;
+	background-color:rgba(169, 169, 169,0.3);
+	
+}
+
+.a1{
+	position:relative;
+	top:8px;
+	left:10px;
+}
+
+.card1{
+	height:500px;
+	width:350px;
+	border-radius:15px;
+	margin: 30px auto;
+	background-image:url(fon1.jpg);
+	background-size:cover;
+	
+}
+
+.card2{
+	height:500px;
+	width:350px;
+	border-radius:15px;
+	margin:100px auto;
+	background-image:url(fon2.jpg);
+	background-size:cover;
+}
+
+.card3{
+	height:500px;
+	width:350px;
+	border-radius:15px;
+	margin:100px auto;
+	background-image:url(fon3.jpg);
+	background-size:cover;
+}
+
+.card4{
+	height:500px;
+	width:350px;
+	border-radius:15px;
+	margin:100px auto;
+	background-image:url(fon4.jpg);
+	background-size:cover;
+}
+
+.card5{
+	height:500px;
+	width:350px;
+	border-radius:15px;
+	margin:100px auto;
+	background-image:url(fon5.jpg);
+	background-size:cover;
+}
+
+.card6{
+	height:500px;
+	width:350px;
+	border-radius:15px;
+	margin:100px auto;
+	background-image:url(fon6.jpg);
+	background-size:cover;
+}
