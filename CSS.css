@@ -22,12 +22,11 @@ body{
 	font-family: "Libre Franklin", sans-serif;
 	color:rgb(255, 255, 255);
 	position:relative;
-	top:220px;
+	top:210px;
 	left:27px;
 }
  
 .cherdak{
-	font-family: "Libre Franklin", sans-serif;
 	height:50px;
 	border-radius:10px;
 	background-color:rgba(169, 169, 169,0.3);
